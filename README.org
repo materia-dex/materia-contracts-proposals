@@ -1,4 +1,3 @@
 * Functionalities
 
 This repository contains the contracts of the functionalities as DFO proposals.
-

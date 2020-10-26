@@ -1,0 +1,8 @@
+* New factory
+  This is the one time proposal to change a factory.
+  Let's observe how can be optionally set the emergency mode before
+  updating the factory, in this way the old factory will no longer be
+  able to create new pair.
+  However, swapping and adding/removing liquidity can still be
+  performed.
+  
